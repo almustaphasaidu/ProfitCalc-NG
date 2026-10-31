@@ -1,4 +1,4 @@
-google.com, pub-6588098923437854, DIRECT, f08c47fec0942fa0
+
 
 # Privacy Policy — ProfitCalc NG
 
